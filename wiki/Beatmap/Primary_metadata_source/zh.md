@@ -9,6 +9,7 @@ tags:
   - 元数据源
   - 官方元数据源
   - 主要元数据源
+outdated_translation: true
 ---
 
 # 主要元数据源

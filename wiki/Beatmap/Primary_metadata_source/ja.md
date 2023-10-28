@@ -4,6 +4,7 @@ tags:
   - 公式メタデータソース
   - 公式ソース
   - 一次メタデータソース
+outdated_translation: true
 ---
 
 # 一次メタデータソース

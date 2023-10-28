@@ -6,6 +6,7 @@ tags:
   - official source
   - official sources
   - primary metadata sources
+outdated_translation: true
 ---
 
 # แหล่งข้อมูลเมตาหลัก

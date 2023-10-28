@@ -12,6 +12,7 @@ tags:
   - source officielle
   - sources officielles
   - sources de métadonnées primaires
+outdated_translation: true  
 ---
 
 # Source de métadonnées primaire

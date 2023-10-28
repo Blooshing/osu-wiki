@@ -16,6 +16,7 @@ tags:
   - fuentes de metadatos principales
   - fuentes primarias de metadatos
   - fuentes de metadatos primarias
+outdated_translation: true
 ---
 
 # Fuente principal de metadatos
